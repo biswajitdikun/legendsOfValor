@@ -1,9 +1,9 @@
 # CS611-Assignment 3
 ## Legends of Valor
 ---------------------------------------------------------------------------
-- Name: Bo Zhang and Biswajit Satapathy
-- Email: zzzb@bu.edu and biswa@bu.edu
-- Student ID: U13791117 and U62897143
+- Name: Biswajit Satapathy
+- Email: biswa@bu.edu
+- Student ID: U62897143
 
 ## Files
 ---------------------------------------------------------------------------
